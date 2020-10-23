@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/gdey/go-route"
+	route "github.com/gdey/chi-route"
 )
 
 type getter interface {

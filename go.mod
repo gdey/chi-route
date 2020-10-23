@@ -1,4 +1,4 @@
-module github.com/gdey/go-route
+module github.com/gdey/chi-route
 
 go 1.14
 
